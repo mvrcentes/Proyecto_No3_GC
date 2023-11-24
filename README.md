@@ -17,7 +17,7 @@
 Tome una idea sobre la isla de `Feel Good Inc. de Gorillaz` 
 [](https://github.com/mvrcentes/Proyecto_No3_GC/blob/main/ss.png?raw=true)
 
-[](https://github.com/mvrcentes/Proyecto_No3_GC/blob/main/pic1.png?raw=true)
-[](https://github.com/mvrcentes/Proyecto_No3_GC/blob/main/pic2.png?raw=true)
-[](https://github.com/mvrcentes/Proyecto_No3_GC/blob/main/pic4.png?raw=true)
+![](https://github.com/mvrcentes/Proyecto_No3_GC/blob/main/pic1.png?raw=true)
+![](https://github.com/mvrcentes/Proyecto_No3_GC/blob/main/pic2.png?raw=true)
+![](https://github.com/mvrcentes/Proyecto_No3_GC/blob/main/pic4.png?raw=true)
 
